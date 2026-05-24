@@ -1,0 +1,20 @@
+[
+  {
+    "id": "qa-001",
+    "prompt": "Explain smoke testing in one sentence.",
+    "expectedMeaning": "Smoke testing is a basic set of tests used to verify that the most critical functionality works before deeper testing.",
+    "minScore": 0.8
+  },
+  {
+    "id": "qa-002",
+    "prompt": "When should API testing be preferred over UI testing?",
+    "expectedMeaning": "API testing should be preferred for validating business logic, data contracts, integrations, and faster feedback where UI validation is not necessary.",
+    "minScore": 0.8
+  },
+  {
+    "id": "qa-003",
+    "prompt": "What is regression testing?",
+    "expectedMeaning": "Regression testing verifies that existing functionality still works after changes, fixes, or new features.",
+    "minScore": 0.8
+  }
+]
